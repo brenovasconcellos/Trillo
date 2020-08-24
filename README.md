@@ -1,11 +1,11 @@
 <img src="/img/favicon.png" width="50px" height="50px">
 
 # Trillo
-Trillo é um site de busca de hotéis onde você encontra o melhor hotel de acordo com o que você desejar
+Trillo é um site de busca de hotéis moderno onde você encontra o melhor hotel de acordo com o que você deseja.
 
 <img src="/img/prttrillo.jpg">
 
-O projeto foi desenvolvido apenas para front-end através da tecnologias HTML e CSS, **_uma vez que tem como o objetivo mostrar o desenvolvimento de aplicações baseadas no Flexbox._** Deste modo, Trillo foi totalmente baseado nas funcionalidades do Flexbox que demonstra ser uma ótima escolha para desenvolver interfaces em CSS3 com mias versatilidade facilidade.
+O projeto foi desenvolvido apenas para front-end através da tecnologias HTML e CSS, **_uma vez que tem como o objetivo mostrar o desenvolvimento de aplicações baseadas no Flexbox._** Deste modo, Trillo foi totalmente baseado nas funcionalidades do Flexbox que demonstra ser uma ótima escolha para desenvolver interfaces em CSS3 com mais versatilidade e facilidade.
 
 # Responsivo
 O projeto Trillo foi desenvolvido para ser **responsivo para vários tipos de dispositívos**, ou seja, **o site se adapta totalmente em vários tipos de dispositivo, sendo ele Desktop, Tablets e Celulares**. A responsovidade é um fator importante para o desenvolvimento de uma aplicação, uma vez que é importante a inclusão da aplicação em vários tipos de dispositivos diferentes para os mais variados tipos de usuários 
@@ -42,4 +42,4 @@ Feito os seguintes passos, digite no terminal:
 npm run watch:sass
 ```
 
-Para ter uma experiência melhor do projeto, indico a utilização de Idles para Vs-code como live-server.
+Para ter uma melhor experiência do projeto, indico a utilização de Idles para Vs-code como live-server.
