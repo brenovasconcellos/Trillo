@@ -42,4 +42,4 @@ Feito os seguintes passos, digite no terminal:
 npm run watch:sass
 ```
 
-Para ter uma melhor experiência do projeto, indico a utilização de Idles para Vs-code como live-server.
+Para ter uma melhor experiência do projeto, indico a utilização de extensões para Vs-code como live-server.
