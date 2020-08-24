@@ -3,7 +3,7 @@
 # Trillo
 Trillo é um site de busca de hotéis onde você encontra o melhor hotel de acordo com o que você desejar
 
-<img src="/img/prttrillo.JPEG">
+<img src="/img/trillopj.JPG">
 
 O projeto foi desenvolvido apenas para front-end através da tecnologias HTML e CSS, **_uma vez que tem como o objetivo mostrar o desenvolvimento de aplicações baseadas no Flexbox._** Deste modo, Trillo foi totalmente baseado nas funcionalidades do Flexbox que demonstra ser uma ótima escolha para desenvolver interfaces em CSS3 com mias versatilidade facilidade.
 
