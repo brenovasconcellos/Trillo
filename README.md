@@ -12,7 +12,7 @@ O projeto Trillo foi desenvolvido para ser **responsivo para vários tipos de di
 
 ### Trillo em dispositivo mobile
 
-<img src="/img/mobiletrillo.JPEG">
+<img src="/img/mobiletrillo.jpg">
 
 # Sass e npms
 
